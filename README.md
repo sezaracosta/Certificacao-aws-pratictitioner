@@ -1,5 +1,6 @@
 # AWS ESTUDOS  
 <strong># TIPOS DE SERVIÇOS QUE TEMOS EM CLOUD </strong>
+<br>
 <strong>IaaS</strong> 
 1 - infrastructure-as-a-Service 
 O que seria a infrastrutura como serviço você, contrataria apenas a infraestrutura da aws exemplo as partes como (networking,storage,services e virtualization ),as questões de O/S e aplicação seria de sua
