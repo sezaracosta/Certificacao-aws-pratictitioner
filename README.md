@@ -1,2 +1,3 @@
-# Certificacao-aws-pratictitioner
-TIPOS DE SERVIÇOS QUE TEMOS EM CLOUD 
+# TIPOS DE SERVIÇOS QUE TEMOS EM CLOUD 
+<strong>IaaS</strong> 
+
