@@ -12,4 +12,4 @@ Na plataforma como serviço você estaria contratando a infra como  tambem a par
 3 - Software-as-a-Service 
 Está ultima opção a aws ira gerenciar toda sua infra como tambem sua aplicação assim ficando mais restrito as modificações um exemplo seria um software de CRM
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
-# TIPOS DE NUVEM QUE TEMOS NA ATUALIDADE 
+<strong># TIPOS DE NUVEM QUE TEMOS NA ATUALIDADE</strong>
