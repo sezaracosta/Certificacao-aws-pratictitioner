@@ -6,4 +6,10 @@ responsabilidade
 <br>
 <strong>PaaS</strong>
 2 - plataform-as-a-Service
-Na plataforma como serviço você estaria contratando a infra como  tambem a parte que gerencia  seu O/S e outras coisas como middleware, assim ficando para você apenas a aplicação 
+Na plataforma como serviço você estaria contratando a infra como  tambem a parte que gerencia  seu O/S e outras coisas como middleware, assim ficando para você apenas a aplicação
+<br>
+<strong>SaaS</strong>
+3 - Software-as-a-Service 
+Está ultima opção a aws ira gerenciar toda sua infra como tambem sua aplicação assim ficando mais restrito as modificações um exemplo seria um software de CRM
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+# TIPOS DE NUVEM QUE TEMOS NA ATUALIDADE 
