@@ -24,3 +24,8 @@ isso sendo muito mais caro.
 <br>
 <strong>Hybrid Cloud</strong> - E por fim temos está opção como ela funciona tenho um sistema de cadastro ,o front-end ficaria na parte da public cloud e para ter uma maior segurança colocaria meu banco de
 dados na private cloud.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+<strong># SERVIÇOS DA AWS </strong>
+
+
+
