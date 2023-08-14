@@ -30,11 +30,12 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
 <br>
-A Aws Trata sobre segurança com altissima prioridade
+<strong>A Aws Trata sobre segurança com altissima prioridade</strong>
 <br>
-Na nuvem toda a parte de segurança é baseada em Software, ex:Firewall
+<strong>Na nuvem toda a parte de segurança é baseada em Software:</strong>
+Firewall
 <br>
-A aws considera como  beneficios em questão de segurança:
+<strong>A aws considera como  beneficios em questão de segurança:</strong>
 Manter nosso dados seguros, conformidade, Economia de Dinheiro(Conceito Nuvem)
 Escala Rápida(Conceito Nuvem)
 
