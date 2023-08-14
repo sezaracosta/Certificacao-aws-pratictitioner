@@ -27,5 +27,18 @@ dados na private cloud.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong># SERVIÇOS DA AWS </strong>
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+<strong>SEGURANÇA E CONFORMIDADE </strong>
+<br>
+A Aws Trata sobre segurança com altissima prioridade
+<br>
+Na nuvem toda a parte de segurança é baseada em Software, ex:Firewall
+<br>
+A aws considera como  beneficios em questão de segurança:
+Manter nosso dados seguros, conformidade, Economia de Dinheiro(Conceito Nuvem)
+Escala Rápida(Conceito Nuvem)
+
+
+
 
 
