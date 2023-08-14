@@ -37,7 +37,19 @@ Firewall
 <br>
 <strong>A aws considera como  beneficios em questão de segurança:</strong>
 Manter nosso dados seguros, conformidade, Economia de Dinheiro(Conceito Nuvem)
+<br>
 Escala Rápida(Conceito Nuvem)
+___________________________________________________________________________________________________________
+<strong>MODELO DE RESPONSABILIDADE COMPARTILHADA</strong>
+<br>
+O que seria responsabilidade compartilhada é uma responsabilidade compartilhada entre AWS e Cliente.
+<strong>Exemplos - 1 </strong> Toda manutenção fisica, SO e Virtualização é responsabilidade AWS 
+<br>
+<strong>Exemplos - 2 </strong> Atualizações de Segurança, liberação de aplicações em EC2 é responsabilidade do cliente
+<br>
+Of the Cloud, segurança da nuvem responsabilidade AWS (Termos)
+In the Cloud , segurança na nuvem responsabilidade do usuario(Termos )
+___________________________________________________________________________________________________________
 
 
 
