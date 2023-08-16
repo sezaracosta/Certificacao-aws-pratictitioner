@@ -30,7 +30,8 @@ ________________________________________________________________________________
 Lista de Alguns dos serviços mais utilizados da Amazon e suas Funções.
 <br>
 <strong>AMAZON ELASTIC COMPUTE CLOUD (EC2)</strong> : Podemos criar maquinas virtuais, facilitando a instalação de software. Podemos desligar e ligar nossas vm a qualquer momento e pagamos somente pelo que utilizamos,e também podemos ampliar ou reduzir a infraestrutura a qualquer momento, sendo assim uma solução escalavel.
-
+<br>
+<strong>ELASTIC BEANSTALK</strong> : Possibilita a implantação de aplicações em ambientes .NET,Java,Python e outros, também  é escalável e agiliza o trabalho para desenvolvedores, exemplo quando subimos um código, na aws a mesma já faz o restante do trabalho a implementação, balanceamento de carga e monitora o desempenho.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
 <br>
