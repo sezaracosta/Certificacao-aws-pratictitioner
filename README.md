@@ -26,6 +26,10 @@ isso sendo muito mais caro.
 dados na private cloud.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong># SERVIÇOS DA AWS </strong>
+<br>
+Lista de Alguns dos serviços mais utilizados da Amazon e suas Funções.
+<br>
+<strong>AMAZON ELASTIC COMPUTE CLOUD (EC2)</strong> : Podemos criar maquinas virtuais 
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
