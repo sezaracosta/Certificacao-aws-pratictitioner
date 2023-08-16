@@ -29,7 +29,7 @@ ________________________________________________________________________________
 <br>
 Lista de Alguns dos serviços mais utilizados da Amazon e suas Funções.
 <br>
-<strong>AMAZON ELASTIC COMPUTE CLOUD (EC2)</strong> : Podemos criar maquinas virtuais 
+<strong>AMAZON ELASTIC COMPUTE CLOUD (EC2)</strong> : Podemos criar maquinas virtuais, facilitando a instalação de software. Podemos desligar e ligar nossas vm a qualquer momento e pagamos somente pelo que utilizamos,e também podemos ampliar ou reduzir a infraestrutura a qualquer momento, sendo assim uma solução escalavel.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
@@ -54,6 +54,7 @@ O que seria responsabilidade compartilhada é uma responsabilidade compartilhada
 <strong>Exemplos - 2 </strong> Atualizações de Segurança, liberação de aplicações em EC2 é responsabilidade do cliente
 <br>
 Of the Cloud, segurança da nuvem responsabilidade AWS (Termos)
+<br>
 In the Cloud , segurança na nuvem responsabilidade do usuario(Termos )
 ___________________________________________________________________________________________________________
 
