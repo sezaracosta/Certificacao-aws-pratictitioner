@@ -46,7 +46,7 @@ Elastic IP, CloudFront, Route 53, Load Balancing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
 <br>
-<strong>A Aws Trata sobre segurança com altissima prioridade</strong>
+A Aws Trata sobre segurança com altissima prioridade
 <br>
 <strong>Na nuvem toda a parte de segurança é baseada em Software:</strong>
 Firewall
