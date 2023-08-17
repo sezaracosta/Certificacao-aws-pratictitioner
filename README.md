@@ -33,7 +33,16 @@ Lista de Alguns dos serviços mais utilizados da Amazon e suas Funções.
 <br>
 <strong>ELASTIC BEANSTALK</strong> : Possibilita a implantação de aplicações em ambientes .NET,Java,Python e outros, também  é escalável e agiliza o trabalho para desenvolvedores, exemplo quando subimos um código, na aws a mesma já faz o restante do trabalho a implementação, balanceamento de carga e monitora o desempenho.
 <br>
-<strong>AMAZON INSPECTOR</strong> : 
+<strong>AMAZON INSPECTOR</strong> : Faz a varredura de ameaças nas instancias (EC2), e criar uma lista para vocẽ para você poder tomar ações.
+<br>
+<strong>SHIELD AWS DDoS PROTECTION</strong> :
+<br>
+Distributed Denial of Service,Filtra o trafego e vigia a sua aplicação
+<br>
+Standard funciona de forma automática, monitora a rede,verifica o ataque e dropa,verifica a assinatura,trafego suspeito analisa,detecta e filtra em tempo Real(Não Paga) - Já é Habilitado
+<br>
+Advanced: Você paga pelo o que utiliza,regras, assinaturas, como todos os outros softwares que combatem DDOS
+Elastic IP, CloudFront, Route 53, Load Balancing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
 <br>
