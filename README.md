@@ -1,4 +1,4 @@
-# AWS ESTUDOS  
+ # AWS ESTUDOS  
 <strong># TIPOS DE SERVIÇOS QUE TEMOS EM CLOUD </strong>
 <br>
 <strong>IaaS</strong> 
@@ -43,6 +43,20 @@ Standard funciona de forma automática, monitora a rede,verifica o ataque e drop
 <br>
 Advanced: Você paga pelo o que utiliza,regras, assinaturas, como todos os outros softwares que combatem DDOS
 Elastic IP, CloudFront, Route 53, Load Balancing
+<br>
+<strong>TRUSTED ADVISOR</strong> : Ferramenta online para saber de forma geral os serviços da AWS, visão online sobre todos os erviços para podermos otimizalos e te ajudar na questão de segurança ,monitoramento.
+<br>
+<strong>ATHENA E MACIE</strong> :
+<br>
+Macie: Para dados de informações pessoais (PII), ele analisa através de machine learning e gera analise de riscos de tentativa de acesso não autorizado,apenas so S3.
+<br>
+ATHENA :  Usa consultas SQL interativas e armazena no S3. Serveless(Não depende de infraestrutura), mas vocẽ paga por consulta.
+<br>
+<strong>CloudWatch</strong> : Informações e Dados para acompanhar os aplicativos. tendo uam visão completa de consumo dos serviços, metricas, eventos, dados de logs, Conseguimos configurar alarmes e automatizar ações.(Mandar e-mail para aumentar os recursos)
+<br>
+<strong>CLOUDTRAIL</strong> : Ajuda em conformidade,autidoria,Governança,conseguimos ver nos logs quando habilitado o serviço.Mantendo o historico e anomalias na conta.(Espécie de Registro de Portaria(Auditoria))
+<br>
+<strong>AWSCONFIG</strong : Serviço de auditoria, monitoria,analise de como estão meus recursos. Gerencia a Configuração dos recursos AWS, tipo mudança nos serviços,histórico e gerenciamento.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
 <strong>SEGURANÇA E CONFORMIDADE </strong>
 <br>
